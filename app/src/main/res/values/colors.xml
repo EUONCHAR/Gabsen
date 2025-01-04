@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#4CAF50</color> <!-- Hijau lembut untuk tampilan segar -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Hijau gelap untuk elemen utama -->
+    <color name="colorAccent">#FF9800</color> <!-- Jingga terang untuk aksen atau tombol -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Abu-abu terang untuk latar belakang -->
+    <color name="textColorPrimary">#212121</color> <!-- Hitam terang untuk teks utama -->
+    <color name="textColorSecondary">#757575</color> <!-- Abu-abu gelap untuk teks pendukung -->
+    <color name="dividerColor">#BDBDBD</color> <!-- Warna garis pemisah -->
+
+    <!-- Tambahkan warna berikut -->
+    <color name="card_background">#0A6EB8</color> <!-- Warna latar belakang untuk CardView -->
+    <color name="text_color_white">#FFFFFF</color> <!-- Warna teks putih -->
+    <color name="text_color_black">#000000</color> <!-- Warna teks hitam -->
+    <color name="text_color_gray">#555555</color> <!-- Warna teks abu-abu -->
+    <color name="shadow_color">#E0E0E0</color> <!-- Warna bayangan -->
+</resources>
